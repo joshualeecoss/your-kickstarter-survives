@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24510a91612ec224daa3e0591cad4828, type: 3}
+  m_Name: Goovis Young Passive Item Level 1
+  m_EditorClassIdentifier: 
+  multiplier: 0.1
+  level: 1
+  nextLevelPrefab: {fileID: 6738052552402173657, guid: 4e101858f77261440a87379cac2569cf, type: 3}
+  name: Goovis Young
+  description: Everything seems so much bigger because of this thing strapped to
+    your face. Augment area of attacks by 10%
+  icon: {fileID: 21300000, guid: 9641a06d52f0b974e87eb7936b2ad869, type: 3}
+  identifier: goovis

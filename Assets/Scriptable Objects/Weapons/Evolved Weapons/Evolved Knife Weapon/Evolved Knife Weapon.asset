@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a47c6ad759bfde488f5c7c59f87f187, type: 3}
+  m_Name: Evolved Knife Weapon
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 5052443129654088339, guid: d98473c8239d7df46b9afeaa45d6749a, type: 3}
+  damage: 10
+  speed: 50
+  cooldownDuration: 1.5
+  pierce: 2
+  level: 0
+  nextLevelPrefab: {fileID: 0}
+  name: Big Knife
+  description: It's a bigger knife. Stronger, faster. What more do you want?
+  icon: {fileID: 21300000, guid: 72148d2242080b948b51bcfaffd3f799, type: 3}
+  evolvedUpgradeToRemove: 0
+  identifier: knife

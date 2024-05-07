@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9921dcc6038fdfa4784a4241795000b5, type: 3}
+  m_Name: Garlic + Speed
+  m_EditorClassIdentifier: 
+  baseWeaponData: {fileID: 11400000, guid: ccedee7eb6c4c5741b585ab86084a686, type: 2}
+  catalystPassiveItemData: {fileID: 11400000, guid: 3f2528b92c605fd48b1632965e1d8b83, type: 2}
+  evolvedWeapnData: {fileID: 11400000, guid: df075f72018ac5e4883b4f685edacc29, type: 2}
+  evolvedWeapon: {fileID: 7603280671962398641, guid: e6d0b114ce347de40a7d56157c6cf7d9, type: 3}

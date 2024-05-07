@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a47c6ad759bfde488f5c7c59f87f187, type: 3}
+  m_Name: Lightning Weapon Level 4
+  m_EditorClassIdentifier: 
+  weaponPrefab: {fileID: 8077805293623051081, guid: 03687466fa3a9e54384494e0c6c0dd5a, type: 3}
+  damage: 25
+  speed: 1
+  cooldown: 4.5
+  duration: 0
+  area: 2
+  amount: 4
+  interval: 0.05
+  pierce: 0
+  level: 4
+  nextLevelControllerPrefab: {fileID: 3278666525126076994, guid: 53128dcbb8810754280a0df164998228, type: 3}
+  name: Lightning Level 4
+  description: Fires 1 more projectile.
+  icon: {fileID: 21300000, guid: 0b1bd17f73d56964eb41eda77c4e8c38, type: 3}
+  evolvedUpgradeToRemove: 8
+  identifier: lightning

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a47c6ad759bfde488f5c7c59f87f187, type: 3}
+  m_Name: Bears VS Babies Weapon Level 8
+  m_EditorClassIdentifier: 
+  weaponPrefab: {fileID: 7916636885737858807, guid: c76539ebf99c38840a3d5919c94cad30, type: 3}
+  damage: 30
+  speed: 32
+  cooldown: 3
+  duration: 4
+  area: 1.5
+  amount: 4
+  interval: 0
+  pierce: 0
+  level: 8
+  nextLevelControllerPrefab: {fileID: 0}
+  name: Bears VS Babies Level 8
+  description: Effect lasts 0.5 seconds longer. Base Damage up by 10.
+  icon: {fileID: 281742866, guid: 2af420b83b475f842bfb69938fde26be, type: 3}
+  evolvedUpgradeToRemove: 5
+  identifier: bvb

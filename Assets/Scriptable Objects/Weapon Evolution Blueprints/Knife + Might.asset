@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9921dcc6038fdfa4784a4241795000b5, type: 3}
+  m_Name: Knife + Might
+  m_EditorClassIdentifier: 
+  baseWeaponData: {fileID: 11400000, guid: d20364c8bb9fcf744a0236f3f82a28ce, type: 2}
+  catalystPassiveItemData: {fileID: 11400000, guid: 3114f8c3af1f7c747b7421f6022abacb, type: 2}
+  evolvedWeapnData: {fileID: 11400000, guid: fc3f79b3494c67c4ca55ea5a3aff72aa, type: 2}
+  evolvedWeapon: {fileID: 3217474434651689533, guid: 0cef520e5d204e144b0c1ccd23192c04, type: 3}
